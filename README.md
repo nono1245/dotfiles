@@ -13,7 +13,7 @@ git push
 //git status
 
 
-erorr?
+error?
 ->
 git fetch
 
